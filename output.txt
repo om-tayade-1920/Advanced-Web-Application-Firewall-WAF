@@ -1,0 +1,9 @@
+T1fn1dsw11
+
+Original File Size   : 5553 bytes
+Compressed File Size : 3029 bytes
+Compression Ratio    : 1.83
+File Size Reduction  : 45.45 %
+
+File compressed successfully!
+File decompressed successfully!
