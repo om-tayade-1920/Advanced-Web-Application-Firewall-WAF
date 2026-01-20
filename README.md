@@ -26,3 +26,10 @@ It efficiently reduces file size by assigning **variable-length binary codes** t
 ---
 
 ## 📂 Project Structure
+├── main.cpp // Source code
+├── input.txt // Original input file
+├── compressed.bin // Compressed binary file
+├── codes.txt // Huffman codes for characters
+├── output.txt // Decompressed output file
+├── README.md
+
